@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/e-com-hackathon/src/app/not-found.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction notfound() {\r\n  return (\r\n    <div className='w-screen h-[450px] bg-white flex flex-col items-center justify-center '>\r\n      <div className='text-[96px] text-custom-yellow font-bold'>404</div>\r\n      <div className='text-[32px] text-black pb-5 '>\r\n      Oops! Look likes something going wrong\r\n      </div>\r\n      <div className='text-[18px] text-gray-400 text-center'>Page Cannot be found! we’ll have it figured out in no time.<br />\r\n      Menwhile, cheek out these fresh ideas:</div>\r\n      <div className='pt-9'>\r\n        <button className='px-14 py-4 bg-custom-yellow text-white rounded-md'>\r\n            <p className='text-[18px]'>Go to home</p>\r\n        </button>\r\n      </div>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default notfound"],"names":[],"mappings":";;;;;AAEA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAI,WAAU;0BAA2C;;;;;;0BAC1D,8OAAC;gBAAI,WAAU;0BAA+B;;;;;;0BAG9C,8OAAC;gBAAI,WAAU;;oBAAwC;kCAA2D,8OAAC;;;;;oBAAK;;;;;;;0BAExH,8OAAC;gBAAI,WAAU;0BACb,cAAA,8OAAC;oBAAO,WAAU;8BACd,cAAA,8OAAC;wBAAE,WAAU;kCAAc;;;;;;;;;;;;;;;;;;;;;;AAKvC;uCAEe"}},
+    {"offset": {"line": 78, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
