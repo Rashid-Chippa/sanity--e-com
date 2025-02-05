@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from 'react'
 import { Chef } from '../../../types/chefs'
 //import { get } from 'http';
-import { getCartItems, removeFromCart, upDateCartQuantity} from '../actions/actions'
+import { getCartItems/*, removeFromCart, upDateCartQuantity*/} from '../actions/actions'
 //import Swal from 'sweetalert2'
 import Image from 'next/image'
 import { urlFor } from '@/sanity/lib/image'
